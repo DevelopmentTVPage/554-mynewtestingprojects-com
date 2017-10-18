@@ -1,0 +1,15 @@
+{
+    "title": "My New Testing Project",
+    "baseURL": "https:\/\/mynewtestingprojects.com\/mytesting",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/mytesting",
+        "firstpartycookies": true,
+        "cookiedomain": "mynewtestingprojects.com"
+    }
+}
