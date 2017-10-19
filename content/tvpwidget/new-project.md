@@ -10,7 +10,7 @@
     "type": "sidebar",
     "title": "New Project",
     "name": "new-project",
-    "channelId": "117404169",
+    "channelId": "117404499",
     "layout": "bootstrap",
     "autoplay": true
 }
