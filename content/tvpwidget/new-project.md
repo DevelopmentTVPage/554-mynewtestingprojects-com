@@ -1,7 +1,16 @@
 {
+    "advertising": {
+        "enabled": false,
+        "adServerUrl": null,
+        "adTimeout": 2000,
+        "maxAds": 100,
+        "adInterval": 0
+    },
+    "preload": true,
     "type": "sidebar",
     "title": "New Project",
     "name": "new-project",
-    "channelId": "",
-    "layout": "bootstrap"
+    "channelId": "117404169",
+    "layout": "bootstrap",
+    "autoplay": true
 }
