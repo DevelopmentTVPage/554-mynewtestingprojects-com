@@ -6,11 +6,10 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": true,
+    "preload": false,
     "type": "sidebar",
-    "title": "New Project",
-    "name": "new-project",
-    "channelId": "117404498",
-    "layout": "bootstrap",
-    "autoplay": true
+    "title": "tt",
+    "name": "tt",
+    "channelId": "117404497",
+    "layout": "bootstrap"
 }
